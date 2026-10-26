@@ -23,6 +23,13 @@ Quero transformar ideias em soluções úteis e registrar aqui a evolução dess
 | **Bots para Discord** | Comandos, integrações e recursos úteis para comunidades. |
 | **Inteligência artificial** | Conceitos, ferramentas e possibilidades de aplicação em software. |
 
+## Certificados
+
+| Certificado | Instituição | Carga horária |
+| :--- | :--- | :---: |
+| **Ética na Inteligência Artificial** | SENAI São Paulo | 4 horas |
+| **Competência Transversal - Lógica de Programação** | SENAI São Paulo | 14 horas |
+
 ## Meus repositórios
 
 Explore meus repositórios para acompanhar o que compartilho no GitHub. O repositório [**Matheus**](https://github.com/cheioodafeemDeus/Matheus), que reúne esta apresentação.
