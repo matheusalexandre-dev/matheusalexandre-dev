@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/cheioodafeemDeus?tab=repositories">Explorar repositórios</a>
+  <a href="https://github.com/matheusalexandre-dev?tab=repositories">Explorar repositórios</a>
   ·
-  <a href="https://github.com/cheioodafeemDeus/Matheus">Repositório Matheus</a>
+  <a href="https://github.com/matheusalexandre-dev/Matheus">Repositório Matheus</a>
 </p>
 
 ## Olá, eu sou o Matheus
@@ -32,10 +32,10 @@ Quero transformar ideias em soluções úteis e registrar aqui a evolução dess
 
 ## Meus repositórios
 
-Explore meus repositórios para acompanhar o que compartilho no GitHub. O repositório [**Matheus**](https://github.com/cheioodafeemDeus/Matheus), que reúne esta apresentação.
+Explore meus repositórios para acompanhar o que compartilho no GitHub. O repositório [**Matheus**](https://github.com/matheusalexandre-dev/Matheus), que reúne esta apresentação.
 
 ---
 
 <p align="center">
-  <sub>Matheus · <a href="https://github.com/cheioodafeemDeus">@cheioodafeemDeus</a></sub>
+  <sub>Matheus · <a href="https://github.com/matheusalexandre-dev">@matheusalexandre-dev</a></sub>
 </p>
