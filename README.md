@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/banner.svg" alt="Matheus — Desenvolvimento web, Python e bots Discord. Interesse em inteligência artificial." width="100%" />
+</div>
 
-<!--
-**cheioodafeemDeus/cheioodafeemDeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/cheioodafeemDeus?tab=repositories">Explorar repositórios</a>
+  ·
+  <a href="https://github.com/cheioodafeemDeus/Matheus">Repositório Matheus</a>
+</p>
 
-Here are some ideas to get you started:
+## Olá, eu sou o Matheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este é meu espaço para apresentar minha trajetória em tecnologia e organizar meu portfólio. Tenho interesse em **desenvolvimento web**, **Python**, **bots para Discord** e **inteligência artificial**.
+
+Quero transformar ideias em soluções úteis e registrar aqui a evolução desse caminho.
+
+## Áreas de interesse
+
+| Área | O que quero explorar |
+| :--- | :--- |
+| **Desenvolvimento web** | Interfaces claras, páginas responsivas e aplicações para a web. |
+| **Python** | Programação, scripts e automação de tarefas. |
+| **Bots para Discord** | Comandos, integrações e recursos úteis para comunidades. |
+| **Inteligência artificial** | Conceitos, ferramentas e possibilidades de aplicação em software. |
+
+## Portfólio em construção
+
+Este perfil está sendo organizado. Novos projetos poderão ser apresentados aqui com descrição, código e instruções de uso conforme forem publicados.
+
+Por enquanto, o ponto de partida é o repositório [**Matheus**](https://github.com/cheioodafeemDeus/Matheus), que reúne esta apresentação.
+
+---
+
+<p align="center">
+  <sub>Matheus · <a href="https://github.com/cheioodafeemDeus">@cheioodafeemDeus</a></sub>
+</p>
