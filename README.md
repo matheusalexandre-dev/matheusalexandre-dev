@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/matheusalexandre-dev?tab=repositories">Explorar repositórios</a>
-  ·
-  <a href="https://github.com/matheusalexandre-dev/Matheus">Repositório Matheus</a>
 </p>
 
 ## Olá, eu sou o Matheus
@@ -32,7 +30,7 @@ Quero transformar ideias em soluções úteis e registrar aqui a evolução dess
 
 ## Meus repositórios
 
-Explore meus repositórios para acompanhar o que compartilho no GitHub. O repositório [**Matheus**](https://github.com/matheusalexandre-dev/Matheus), que reúne esta apresentação.
+Explore [meus repositórios](https://github.com/matheusalexandre-dev?tab=repositories) para acompanhar o que compartilho no GitHub.
 
 ---
 
