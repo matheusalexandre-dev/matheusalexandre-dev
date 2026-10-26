@@ -23,11 +23,9 @@ Quero transformar ideias em soluções úteis e registrar aqui a evolução dess
 | **Bots para Discord** | Comandos, integrações e recursos úteis para comunidades. |
 | **Inteligência artificial** | Conceitos, ferramentas e possibilidades de aplicação em software. |
 
-## Portfólio em construção
+## Meus repositórios
 
-Este perfil está sendo organizado. Novos projetos poderão ser apresentados aqui com descrição, código e instruções de uso conforme forem publicados.
-
-Por enquanto, o ponto de partida é o repositório [**Matheus**](https://github.com/cheioodafeemDeus/Matheus), que reúne esta apresentação.
+Explore meus repositórios para acompanhar o que compartilho no GitHub. O repositório [**Matheus**](https://github.com/cheioodafeemDeus/Matheus), que reúne esta apresentação.
 
 ---
 
